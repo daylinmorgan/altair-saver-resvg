@@ -2,6 +2,7 @@
 
 pkg + resvg + vega + altair = static beauty
 
+Work on developing a new static image renderer for `altair` has shifted [here](https://github.com/daylinmorgan/okab).
 
 ## Problem
 
